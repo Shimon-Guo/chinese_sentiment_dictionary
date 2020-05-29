@@ -5,6 +5,10 @@
 * 清华大学李军中文褒贬义词典
 * BosonNLP 
 
+
+所有资源已经打包至百度网盘:
+链接:https://pan.baidu.com/s/1qxruYq4NtkzGNvqwuRurjA  密码:ckom
+
 数据集来源：
 * http://www.keenage.com/
 * http://nlg.csie.ntu.edu.tw/nlpresource/NTUSD-Fin/
