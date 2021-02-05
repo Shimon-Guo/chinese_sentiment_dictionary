@@ -9,6 +9,10 @@
 所有资源已经打包至百度网盘（某盘认为资源违规，链接失效）:
 ~~链接:https://pan.baidu.com/s/1qxruYq4NtkzGNvqwuRurjA  密码:ckom~~
 
+个人网盘下载链接（可能不稳定）：
+http://pan.shimon.cn/f/3123440c4c0b45dc8a5a/
+
+
 数据集来源：
 * http://www.keenage.com/
 * http://nlg.csie.ntu.edu.tw/nlpresource/NTUSD-Fin/
