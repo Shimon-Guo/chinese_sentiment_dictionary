@@ -6,7 +6,7 @@
 * BosonNLP 
 
 
-所有资源已经打包至百度网盘（某盘认为改资源违规，链接失效）:
+所有资源已经打包至百度网盘（某盘认为资源违规，链接失效）:
 ~~链接:https://pan.baidu.com/s/1qxruYq4NtkzGNvqwuRurjA  密码:ckom~~
 
 数据集来源：
