@@ -10,10 +10,10 @@
 ~~链接:https://pan.baidu.com/s/1qxruYq4NtkzGNvqwuRurjA  密码:ckom~~
 
 个人网盘下载链接（可能不稳定）：
-http://pan.shimon.cn/f/3123440c4c0b45dc8a5a/
+~~http://pan.shimon.cn/f/3123440c4c0b45dc8a5a/~~
 
 
-数据集来源：
+数据集来源(2023年更新，以下数据来源大部分都已经失效)：
 * http://www.keenage.com/
 * http://nlg.csie.ntu.edu.tw/nlpresource/NTUSD-Fin/
 * http://nlp.csai.tsinghua.edu.cn/site2/index.php/13-sms
