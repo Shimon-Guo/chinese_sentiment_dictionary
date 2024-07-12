@@ -13,7 +13,7 @@
 ~~http://pan.shimon.cn/f/3123440c4c0b45dc8a5a/~~
 
 
-数据集来源(2023年更新，以下数据来源大部分都已经失效)：
+数据集来源(2024年更新，数据源全部失效，大家可以clone到自己的仓库)：
 * http://www.keenage.com/
 * http://nlg.csie.ntu.edu.tw/nlpresource/NTUSD-Fin/
 * http://nlp.csai.tsinghua.edu.cn/site2/index.php/13-sms
